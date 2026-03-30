@@ -1,17 +1,21 @@
-# digital-literacy-project
+
 Digital Literacy Portfolio
+
 Course: CSE0001 - Digital Literacy
 Student Information
 Name: Mayurakshi Bharadwaj 
 Registration Number: 25BOE10103
 Branch: B.Tech Bioengineering 
 Year: First Year (2025-2029)
+
 Project Overview
+
 This repository is the final submission for my Digital Literacy (CSE0001) project at VIT Bhopal University. As a Student Digital Ambassador, I have developed a series of resources to help my peers navigate the digital world safely, responsibly, and professionally.
 
 The project covers five core modules, ranging from visual communication to cybercrime awareness.
 
 Module Summaries
+
 Task 1: Digital Literacy Awareness Infographic
 I designed a visual "Digital Literacy Essentials" guide using Canva to help students understand the definition of digital literacy, safe internet habits, and professional online branding.
 
