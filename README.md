@@ -1,5 +1,5 @@
 
-Digital Literacy Portfolio
+DIGITAL LITERACY PORTFOLIO
 
 Course: CSE0001 - Digital Literacy
 Student Information
