@@ -1,12 +1,22 @@
 
 DIGITAL LITERACY PORTFOLIO
 
+
 Course: CSE0001 - Digital Literacy
+
+
+
 Student Information
-Name: Mayurakshi Bharadwaj 
+
+Name: Mayurakshi Bharadwaj
+
 Registration Number: 25BOE10103
+
 Branch: B.Tech Bioengineering 
+
 Year: First Year (2025-2029)
+
+
 
 Project Overview
 
