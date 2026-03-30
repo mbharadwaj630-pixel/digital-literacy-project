@@ -37,7 +37,7 @@ Folder: Task 2-portfolio/
 Task 3: Coding & Collaboration Platforms
 I completed a Python coding challenge on HackerRank to practice technical logic. I also developed a 5-question Digital Literacy Awareness Quiz using Google Forms to engage with my batchmates.
 
-Quiz Link: https://docs.google.com/forms/d/e/1FAIpQLScZC00PAXqb2mJ8AL_oZB9zKFb_QxX3lHqXDj5Ax4oQvJZgAA/viewform?usp=header
+Quiz Link: https://docs.google.com/forms/d/e/1FAIpQLSfoBaRdM4sKzlPRmvju3_JRbWJl3Zyql2vZd2xgkooIZ-MS5A/viewform?usp=publish-editor
 Folder: Task 3-platforms/
 Task 4: Professional Communication & Etiquette
 This module focuses on professional email drafting and social media responsibility. It includes sample emails for academic and internship requests, along with a "Do's and Don'ts" guide for college students.
